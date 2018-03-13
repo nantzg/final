@@ -2,7 +2,6 @@
 //I thought I might as well reach for the stars and show how I would do
 //the country flag quiz. Below is my attempt. Thanks again for all your help
 //this quarter.
-
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 //added to interact with database
